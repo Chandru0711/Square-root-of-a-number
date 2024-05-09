@@ -1,5 +1,3 @@
-![image](https://github.com/Chandru0711/Square-root-of-a-number/assets/144979368/732b7b1f-6e8a-48bb-8ba4-ba800135087b)# Find the square root of a number
-
 ## AIM:
 To write a program to find the square root of a number.
 
